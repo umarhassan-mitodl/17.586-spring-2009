@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "legacy_uid": "62608f0d-bd00-911d-e891-6963e1004be4",
+  "instructors": {
+    "content": [
+      "64ad9580-20cd-8228-a824-72c59427777b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b8b315a8-fbe3-7b6e-6f5e-6211e617a511",
+    "website": "17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009"
+  },
+  "course_title": "Warlords, Terrorists, and Militias: Theorizing on Violent Non-State Actors",
+  "hide_download": true,
+  "course_description": "This course is a general overview of the recent political science literature on violent non-state actors. Its aim is to examine why non-state actors (such as warlords, terrorists, militias, etc.) resort to violence, what means and tactics they use, and what can be done to counter that violence. In that regard, the class will cover works pertaining to the production side of non-state violence (i.e. the objectives and organization of insurgents/terrorists/militias/warlords, their mobilization strategies and support base, how they coerce opponents, etc.); as well as the response that violence elicits from governments or other actors (i.e. counter-insurgency or counter-terrorism strategies, among others). Apart from introducing the basic variables and theoretical and empirical findings in the literature, this course will also grapple with questions of definition, operationalization of variables, and general methodology relevant to conducting research in this area of violent conflict. Though thematically-driven, this course will also reference cases from the contemporary battlefields of insurgency and terrorism (be it Afghanistan, Iraq, Pakistan, the West Bank and Gaza, Colombia, etc.) as they relate to the pertinent themes.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.586",
+  "course_image_thumbnail": {
+    "content": "113122c9-1e14-4fd4-ac3b-9631939c4310",
+    "website": "17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "77aa3da8-8aed-4b3f-830c-3ec431106896",
+  "site_short_id": "17.586-spring-2009",
+  "site_url_path": "courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009",
+  "title": "Course Metadata"
+}
