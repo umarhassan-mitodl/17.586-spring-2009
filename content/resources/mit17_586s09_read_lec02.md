@@ -6,8 +6,6 @@ description: Notes from the second lecture of the course. Topics include violent
 file: /courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/d600de7c7033fc9f92cb3c1d852db6fe_MIT17_586s09_read_lec02.pdf
 file_size: 86000
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

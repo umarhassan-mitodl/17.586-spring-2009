@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the discussant memo assignment of
   the course along with example memos written by students.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
